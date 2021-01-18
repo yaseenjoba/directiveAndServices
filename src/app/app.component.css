@@ -1,0 +1,11 @@
+.first {
+    background-color: blue;
+    color: white;
+}
+
+.t-table {
+    border: 1px solid black;
+    height: 400px;
+    border-collapse: collapse;
+    overflow: scroll
+}
